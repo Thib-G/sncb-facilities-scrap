@@ -1,0 +1,6 @@
+jupyter
+jupyterlab
+pandas
+beautifulsoup4
+requests
+cloudscraper
