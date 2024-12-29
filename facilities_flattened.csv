@@ -1,4 +1,4 @@
-name,Blue Bikes presence,Cambio information,Escalator,Free Toilets,Has PMR Assistance,Lift on the platform,Location of taxis,Luggage Lockers,Number of Parking Places for PMR,Other shared bikes in the area,PMR Toilets,Paid Toilets,Presence of connecting buses,Presence of connecting metro,Presence of connecting tram,Presence of the Bikes point,TVM Count,Wifi presence
+name,blue_bikes_presence,cambio_information,escalator,free_toilets,has_pmr_assistance,lift_on_the_platform,location_of_taxis,luggage_lockers,number_of_parking_places_for_pmr,other_shared_bikes_in_the_area,pmr_toilets,paid_toilets,presence_of_connecting_buses,presence_of_connecting_metro,presence_of_connecting_tram,presence_of_the_bikes_point,tvm_count,wifi_presence
 Anvers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anvers-Berchem,0,1,1,0,0,0,1,1,3,0,1,1,1,0,1,1,1,1
 Anvers-Central,1,1,1,0,1,1,1,1,24,0,1,1,1,0,1,1,1,1
