@@ -1,32 +1,33 @@
 PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+PREFIX ex: <http://example.org/>
 
 CONSTRUCT {
-  ?row a <http://example.org/Row> ;
-       <http://example.org/name> ?name ;
-       <http://example.org/blue_bikes_presence> ?blue_bikes_presence ;
-       <http://example.org/cambio_information> ?cambio_information ;
-       <http://example.org/escalator> ?escalator ;
-       <http://example.org/free_toilets> ?free_toilets ;
-       <http://example.org/has_pmr_assistance> ?has_pmr_assistance ;
-       <http://example.org/lift_on_the_platform> ?lift_on_the_platform ;
-       <http://example.org/location_of_taxis> ?location_of_taxis ;
-       <http://example.org/luggage_lockers> ?luggage_lockers ;
-       <http://example.org/number_of_parking_places_for_pmr> ?number_of_parking_places_for_pmr ;
-       <http://example.org/other_shared_bikes_in_the_area> ?other_shared_bikes_in_the_area ;
-       <http://example.org/pmr_toilets> ?pmr_toilets ;
-       <http://example.org/paid_toilets> ?paid_toilets ;
-       <http://example.org/presence_of_connecting_buses> ?presence_of_connecting_buses ;
-       <http://example.org/presence_of_connecting_metro> ?presence_of_connecting_metro ;
-       <http://example.org/presence_of_connecting_tram> ?presence_of_connecting_tram ;
-       <http://example.org/presence_of_the_bikes_point> ?presence_of_the_bikes_point ;
-       <http://example.org/tvm_count> ?tvm_count ;
-       <http://example.org/wifi_presence> ?wifi_presence .
+  ?row a ex:Row ;
+       ex:name ?name ;
+       ex:blue_bikes_presence ?blue_bikes_presence ;
+       ex:cambio_information ?cambio_information ;
+       ex:escalator ?escalator ;
+       ex:free_toilets ?free_toilets ;
+       ex:has_pmr_assistance ?has_pmr_assistance ;
+       ex:lift_on_the_platform ?lift_on_the_platform ;
+       ex:location_of_taxis ?location_of_taxis ;
+       ex:luggage_lockers ?luggage_lockers ;
+       ex:number_of_parking_places_for_pmr ?number_of_parking_places_for_pmr ;
+       ex:other_shared_bikes_in_the_area ?other_shared_bikes_in_the_area ;
+       ex:pmr_toilets ?pmr_toilets ;
+       ex:paid_toilets ?paid_toilets ;
+       ex:presence_of_connecting_buses ?presence_of_connecting_buses ;
+       ex:presence_of_connecting_metro ?presence_of_connecting_metro ;
+       ex:presence_of_connecting_tram ?presence_of_connecting_tram ;
+       ex:presence_of_the_bikes_point ?presence_of_the_bikes_point ;
+       ex:tvm_count ?tvm_count ;
+       ex:wifi_presence ?wifi_presence .
 }
 WHERE {
   SERVICE <x-sparql-anything:> {
     fx:properties
-      fx:location "https://linked-data.goelff.be/facilities_flattened.csv" ;
+      fx:location "https://linked-data.goelff.be/facilities.csv" ;
       fx:csv.headers "true" .
     ?row 
       xyz:name ?name ;
