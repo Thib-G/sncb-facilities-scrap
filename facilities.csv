@@ -1,0 +1,567 @@
+,name,blue_bikes_presence,cambio_information,escalator,free_toilets,has_pmr_assistance,lift_on_the_platform,location_of_taxis,luggage_lockers,number_of_parking_places_for_pmr,other_shared_bikes_in_the_area,pmr_toilets,paid_toilets,presence_of_connecting_buses,presence_of_connecting_metro,presence_of_connecting_tram,presence_of_the_bikes_point,tvm_count,wifi_presence,commerciallongnamefrench,commerciallongnamedutch,class_en,taftapcode,symbolicname
+0,Anvers-Berchem,0,1,1,0,0,0,1,1,3,0,1,1,1,0,1,1,1,1,Anvers-Berchem,Antwerpen-Berchem,Station,BE00139,FCV
+1,Anvers-Central,1,1,1,0,1,1,1,1,24,0,1,1,1,0,1,1,1,1,Anvers-Central,Antwerpen-Centraal,Station,BE00037,FN
+2,Anvers-Luchtbal,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,Anvers-Luchtbal,Antwerpen-Luchtbal,Stop in open track,BE00764,LB
+3,Anvers-Noorderdokken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Anvers-Noorderdokken,Antwerpen-Noorderdokken,Stop in open track,BE00058,AND
+4,Anvers-Sud,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,Anvers-Sud,Antwerpen-Zuid,Stop in open track,BE00064,FNZD
+5,Balen,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,Balen,Balen,Stop in open track,BE00107,LNE
+6,Berlaar,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,Berlaar,Berlaar,Stop in open track,BE00142,GBL
+7,Boechout,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,1,1,0,Boechout,Boechout,Stop in open track,BE00177,GBC
+8,Booischot,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,1,0,Booischot,Booischot,Stop in open track,BE00187,GB
+9,Boom,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Boom,Boom,Station,BE00188,FMB
+10,Bornem,0,0,0,1,0,0,1,0,5,1,0,0,1,0,0,0,1,0,Bornem,Bornem,Stop in open track,BE00192,LOB
+11,Bouwel,0,0,0,0,0,0,0,0,10,0,0,0,1,0,0,0,1,0,Bouwel,Bouwel,Stop in open track,BE00199,FOW
+12,Duffel,0,0,0,0,0,0,0,0,10,0,0,0,1,0,0,0,1,0,Duffel,Duffel,Stop in open track,BE00336,FDF
+13,Ekeren,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,Ekeren,Ekeren,Stop in open track,BE00352,LKR
+14,Essen,1,0,0,0,1,0,0,0,3,0,1,1,1,0,0,0,1,0,Essen,Essen,Station,BE00376,FES
+15,Geel,0,0,0,0,1,0,1,0,6,0,1,0,1,0,0,0,1,0,Geel,Geel,Station,BE00436,LG
+16,Heide,0,0,0,0,0,0,0,0,8,0,1,1,1,0,0,0,1,0,Heide,Heide,Stop in open track,BE00539,MID
+17,Heist-Op-Den-Berg,0,0,0,1,1,0,0,0,8,0,0,0,1,0,0,0,1,0,Heist-op-den-Berg,Heist-op-den-Berg,Station,BE00541,GHO
+18,Hemiksem,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,Hemiksem,Hemiksem,Stop in open track,BE00546,LKM
+19,Herentals,0,0,0,0,1,0,0,0,13,0,1,1,1,0,0,1,1,0,Herentals,Herentals,Station,BE00554,FHT
+20,Hoboken-Polder,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Hoboken-Polder,Hoboken-Polder,Stop in open track,BE00570,FOE
+21,Hove,1,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Hove,Hove,Stop in open track,BE00590,MHO
+22,Kalmthout,0,1,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Kalmthout,Kalmthout,Station,BE00630,FKTH
+23,Kapellen,0,0,0,0,1,0,0,0,4,0,0,1,1,0,0,0,1,0,Kapellen,Kapellen,Station,BE00632,LKP
+24,Kessel,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Kessel,Kessel,Stop in open track,BE00635,LEK
+25,Kijkuit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Kijkuit,Kijkuit,Stop in open track,BE00637,GKT
+26,Lierre,0,1,0,0,1,0,1,0,6,0,1,1,1,0,0,1,1,0,Lierre,Lier,Station,BE00732,FLR
+27,Malines,0,1,1,0,1,1,1,1,18,0,1,1,1,0,0,1,1,1,Malines,Mechelen,Station,BE00810,FM
+28,Malines-Nekkerspoel,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Malines-Nekkerspoel,Mechelen-Nekkerspoel,Station,BE00811,LNK
+29,Melkouwen,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Melkouwen,Melkouwen,Stop in open track,BE00814,MWC
+30,Mol,0,0,0,1,1,1,1,0,4,1,1,0,1,0,0,1,1,0,Mol,Mol,Station,BE00840,LML
+31,Mortsel,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Mortsel,Mortsel,Stop in open track,BE00863,GMO
+32,Mortsel-Deurnesteenweg,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Mortsel-Deurnesteenweg,Mortsel-Deurnesteenweg,Stop in open track,BE00864,GMOD
+33,Mortsel-Liersesteenweg,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,Mortsel-Liersesteenweg,Mortsel-Liersesteenweg,Stop in open track,BE00877,GMOL
+34,Muizen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Muizen,Muizen,Stop in open track,BE00871,FIZ
+35,Niel,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,Niel,Niel,Stop in open track,BE00905,LNI
+36,Nijlen,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,1,0,Nijlen,Nijlen,Stop in open track,BE00907,FJE
+37,Noorderkempen,0,0,0,0,1,0,0,0,16,0,0,1,1,0,0,0,1,0,Noorderkempen,Noorderkempen,Station,BE01839,NDK
+38,Olen,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,Olen,Olen,Station,BE00924,GOL
+39,Puurs,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Puurs,Puurs,Station,BE00977,FRP
+40,Ruisbroek-Sauvegarde,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Ruisbroek-Sauvegarde,Ruisbroek-Sauvegarde,Stop in open track,BE01017,FRBS
+41,Schelle,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Schelle,Schelle,Stop in open track,BE01066,FC
+42,Sint-Katelijne-Waver,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,Sint-Katelijne-Waver,Sint-Katelijne-Waver,Stop in open track,BE01083,FWA
+43,Sint-Mariaburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Sint-Mariaburg,Sint-Mariaburg,Station,BE01084,GSM
+44,Tielen,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0,1,0,Tielen,Tielen,Station,BE01144,FTL
+45,Turnhout,0,1,0,1,1,0,1,0,5,0,1,0,1,0,0,1,1,0,Turnhout,Turnhout,Station,BE01161,FTR
+46,Wildert,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,Wildert,Wildert,Stop in open track,BE01244,GWD
+47,Willebroek,0,0,0,1,0,0,0,0,5,0,0,0,1,0,0,0,1,0,Willebroek,Willebroek,Station,BE01245,FWB
+48,Wolfstee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Wolfstee,Wolfstee,Stop in open track,BE01232,LWO
+49,Zwijndrecht,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Zwijndrecht,Zwijndrecht,Stop in open track,BE01278,LZD
+50,Anderlecht,0,1,0,0,0,0,0,0,31,1,0,0,1,1,0,0,1,0,Anderlecht,Anderlecht,Stop in open track,BE02089,ANDL
+51,Arcades,0,1,0,0,0,1,0,0,2,0,0,0,1,0,0,0,1,0,Arcades,Arcaden,Stop in open track,BE01912,GAR
+52,Bockstael,0,1,1,0,0,0,1,0,6,1,0,0,1,1,1,1,1,0,Bockstael,Bockstael,Stop in open track,BE01767,FBL
+53,Boondael,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,Boondael,Boondaal,Stop in open track,BE00189,BOL
+54,Bordet,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,Bordet,Bordet,Stop in open track,BE00191,BOR
+55,Boitsfort,0,1,0,0,0,0,0,0,2,1,0,0,1,0,1,0,1,0,Boitsfort,Bosvoorde,Stop in open track,BE00183,MBR
+56,Bruxelles-Central,1,0,1,0,0,1,1,1,35,1,1,1,1,1,0,1,1,1,Bruxelles-Central,Brussel-Centraal,Station,BE00215,FBCL
+57,Bruxelles-Congres,0,1,1,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,Bruxelles-Congrès,Brussel-Congres,Stop in open track,BE00216,FBCO
+58,Delta,0,1,1,0,0,0,0,0,5,1,0,0,1,1,0,0,1,0,Delta,Delta,Stop in open track,BE01761,FDEL
+59,Vivier D'oie,0,1,0,0,0,0,1,0,3,1,0,0,1,0,0,0,1,0,Vivier d'Oie,Diesdelle,Stop in open track,BE00824,GDI
+60,Etterbeek,0,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,Etterbeek,Etterbeek,Station,BE00380,MTB
+61,Evere,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,Evere,Evere,Stop in open track,BE00383,GEV
+62,Haren,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Haren,Haren,Stop in open track,BE01663,GHT
+63,Haren-Sud,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Haren-Sud,Haren-Zuid,Stop in open track,BE00521,GHZ
+64,Jette,0,1,0,1,0,1,1,0,6,1,1,0,1,0,1,0,1,0,Jette,Jette,Station,BE00621,FJT
+65,Bruxelles-Chapelle,0,1,0,0,0,0,0,0,8,1,0,0,1,0,0,0,1,0,Bruxelles-Chapelle,Brussel-Kapellekerk,Stop in open track,BE00217,FBCK
+66,Bruxelles-Luxembourg,0,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1,1,1,Bruxelles-Luxembourg,Brussel-Luxemburg,Station,BE00218,LX
+67,Meiser,0,1,0,0,0,0,0,0,4,1,0,0,1,0,1,0,1,0,Meiser,Meiser,Stop in open track,BE00812,MEI
+68,Merode,0,1,0,0,0,0,0,0,2,1,0,0,1,1,1,0,1,0,Mérode,Mérode,Stop in open track,BE00826,MER
+69,Moensberg,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Moensberg,Moensberg,Stop in open track,BE00837,MOE
+70,Germoir,0,1,0,0,0,1,0,0,5,1,0,0,1,0,1,0,1,0,Germoir,Mouterij,Stop in open track,BE01973,GMJ
+71,Bruxelles-Nord,0,0,1,0,1,1,1,1,2,1,1,1,1,0,1,1,1,1,Bruxelles-Nord,Brussel-Noord,Station,BE00221,FBN
+72,Schaerbeek,0,1,0,0,0,0,1,0,12,1,0,0,1,0,1,0,1,0,Schaerbeek,Schaarbeek,Station,BE01048,FSR
+73,Bruxelles-Schuman,0,1,1,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1,Bruxelles-Schuman,Brussel-Schuman,Station,BE00227,FBSM
+74,Simonis,0,1,0,0,0,0,1,0,1,1,0,0,1,1,0,0,1,0,Simonis,Simonis,Stop in open track,BE01768,SIM
+75,Berchem-Sainte-Agathe,0,1,0,0,0,0,1,0,3,1,0,0,1,0,1,0,1,0,Berchem-Sainte-Agathe,Sint-Agatha-Berchem,Stop in open track,BE00243,FBSG
+76,Saint-Job,0,0,0,0,0,0,0,0,2,1,0,0,1,0,1,0,1,0,Saint-Job,Sint-Job,Stop in open track,BE01081,GSO
+77,Uccle-Calevoet,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,Uccle-Calevoet,Ukkel-Kalevoet,Stop in open track,BE01167,FTE
+78,Uccle-Stalle,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,Uccle-Stalle,Ukkel-Stalle,Stop in open track,BE01168,FUS
+79,Forest-Est,0,1,0,0,0,0,1,0,5,1,0,0,1,0,0,0,1,0,Forest-Est,Vorst-Oost,Stop in open track,BE00414,FOST
+80,Forest-Midi,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Forest-Midi,Vorst-Zuid,Station,BE00415,FO
+81,Watermael,0,1,0,0,0,0,0,0,4,1,0,0,1,0,0,0,1,0,Watermael,Watermaal,Station,BE01219,FW
+82,Bruxelles-Ouest,0,1,1,0,0,1,0,0,4,1,0,0,1,1,1,0,1,0,Bruxelles-Ouest,Brussel-West,Station,BE00223,FBOW
+83,Bruxelles-Midi,1,1,1,1,1,1,1,1,18,1,1,1,1,1,1,1,1,1,Bruxelles-Midi,Brussel-Zuid,Station,BE00220,FBMZ
+84,Alost,1,1,0,0,1,1,1,0,22,1,1,1,1,0,0,1,1,1,Alost,Aalst,Station,BE00006,FLS
+85,Aalter,1,0,0,1,0,0,0,0,3,0,1,0,1,0,0,0,1,0,Aalter,Aalter,Station,BE00008,FLT
+86,Appelterre,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Appelterre,Appelterre,Stop in open track,BE00067,MAP
+87,Baasrode-Zuid,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Baasrode-Sud,Baasrode-Zuid,Stop in open track,BE00102,FRA
+88,Balegem-Dorp,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Balegem-Village,Balegem-Dorp,Stop in open track,BE00105,FGED
+89,Balegem-Zuid,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Balegem-Sud,Balegem-Zuid,Stop in open track,BE00106,FGE
+90,Bambrugge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Bambrugge,Bambrugge,Stop in open track,BE00110,BAM
+91,Beervelde,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Beervelde,Beervelde,Station,BE00130,FVB
+92,Bellem,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Bellem,Bellem,Stop in open track,BE00136,FEB
+93,Belsele,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Belsele,Belsele,Stop in open track,BE00138,LLB
+94,Beveren(Waas),0,0,0,1,0,0,0,0,9,0,1,0,1,0,0,0,1,0,Beveren(Waes),Beveren(Waas),Stop in open track,BE00151,FBR
+95,Buggenhout,0,0,0,1,0,0,0,0,10,0,0,0,1,0,0,0,1,0,Buggenhout,Buggenhout,Stop in open track,BE00231,FGN
+96,Burst,0,0,0,1,0,0,0,0,5,0,0,0,1,0,0,0,1,0,Burst,Burst,Station,BE00235,FRU
+97,Deinze,1,0,1,0,0,1,1,0,5,0,1,1,1,0,0,1,1,0,Deinze,Deinze,Station,BE00317,FD
+98,Denderleeuw,0,0,1,0,1,0,0,0,7,0,0,1,1,0,0,0,1,1,Denderleeuw,Denderleeuw,Station,BE00318,FDD
+99,Termonde,0,1,0,0,0,0,0,0,8,0,1,1,1,0,0,1,1,0,Termonde,Dendermonde,Station,BE00319,FDR
+100,De Pinte,0,0,0,1,1,0,0,0,6,0,1,0,1,0,0,0,1,0,De Pinte,De Pinte,Station,BE00320,FPT
+101,Drongen,0,0,0,0,0,0,0,0,11,0,0,0,1,0,0,0,1,0,Tronchiennes,Drongen,Stop in open track,BE00335,FDO
+102,Ede,0,0,0,0,0,0,0,0,8,0,0,0,1,0,0,0,1,0,Ede,Ede,Stop in open track,BE00345,MEE
+103,Eeklo,1,0,0,1,0,0,0,0,3,0,0,0,1,0,0,1,1,0,Eeklo,Eeklo,Station,BE00346,FKLO
+104,Eichem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Eichem,Eichem,Stop in open track,BE00347,FIC
+105,Eine,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Eine,Eine,Stop in open track,BE00348,FEI
+106,Eke-Nazareth,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,1,0,Eke-Nazareth,Eke-Nazareth,Stop in open track,BE00351,FKE
+107,Erembodegem,0,1,0,0,0,0,0,0,5,0,0,0,1,0,0,0,1,0,Erembodegem,Erembodegem,Stop in open track,BE00365,FRMB
+108,Erpe-Mere,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Erpe-Mere,Erpe-Mere,Stop in open track,BE00367,FRPM
+109,Evergem,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,Evergem,Evergem,Stop in open track,BE01843,FMV
+110,Gavere-Asper,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Gavere-Asper,Gavere-Asper,Station,BE00434,FGA
+111,Gentbrugge,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Gentbrugge,Gentbrugge,Stop in open track,BE00447,FUGE
+112,Gand-Dampoort,1,1,1,0,1,1,1,1,15,0,1,1,1,0,0,1,1,0,Gand-Dampoort,Gent-Dampoort,Station,BE00449,FGDM
+113,Gand-Saint-Pierre,1,1,1,0,1,1,1,1,66,1,1,1,1,0,1,1,1,1,Gand-Saint-Pierre,Gent-Sint-Pieters,Station,BE00455,FGSP
+114,Grammont,0,1,0,0,0,0,1,0,8,0,0,1,1,0,0,0,1,0,Grammont,Geraardsbergen,Station,BE00458,FGRA
+115,Gontrode,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Gontrode,Gontrode,Stop in open track,BE00474,FOO
+116,Haaltert,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Haaltert,Haaltert,Stop in open track,BE00494,FHA
+117,Hansbeke,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,1,0,Hansbeke,Hansbeke,Stop in open track,BE00518,FHK
+118,Heizijde,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Heizijde,Heizijde,Stop in open track,BE00542,LEZ
+119,Herzele,0,0,0,1,0,0,0,0,6,0,1,0,1,0,0,0,1,0,Herzele,Herzele,Stop in open track,BE00563,FHZ
+120,Hillegem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Hillegem,Hillegem,Stop in open track,BE00568,HIL
+121,Iddergem,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Iddergem,Iddergem,Stop in open track,BE00600,GIR
+122,Idegem,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Idegem,Idegem,Stop in open track,BE00601,FID
+123,Kwatrecht,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Kwatrecht,Kwatrecht,Stop in open track,BE00654,GKA
+124,Landegem,1,1,0,1,1,1,0,0,3,0,0,0,1,0,0,0,1,0,Landegem,Landegem,Station,BE00682,FLM
+125,Landskouter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Landskouter,Landskouter,Stop in open track,BE00685,FLDK
+126,Lebbeke,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Lebbeke,Lebbeke,Stop in open track,BE00699,FEK
+127,Lede,0,0,0,1,0,0,0,0,2,0,1,0,1,0,0,0,1,0,Lede,Lede,Station,BE00701,FLE
+128,Lierde,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Lierde,Lierde,Stop in open track,BE01085,FRD
+129,Lokeren,0,1,1,0,1,1,1,0,10,0,1,1,1,0,0,1,1,0,Lokeren,Lokeren,Station,BE00748,FLK
+130,Maria-Aalter,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Maria-Aalter,Maria-Aalter,Stop in open track,BE00797,FIA
+131,Melle,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,1,0,Melle,Melle,Stop in open track,BE00815,FML
+132,Melsele,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,Melsele,Melsele,Stop in open track,BE00819,LM
+133,Merelbeke,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Merelbeke,Merelbeke,Stop in open track,BE00822,FKR
+134,Moortsele,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Moortsele,Moortsele,Stop in open track,BE00860,FZM
+135,Munkzwalm,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Munkzwalm,Munkzwalm,Stop in open track,BE00873,MNK
+136,Nieuwkerken-Waas,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Nieuwkerken-Waas,Nieuwkerken-Waas,Stop in open track,BE00906,FNU
+137,Ninove,0,0,0,1,0,0,0,0,9,0,1,0,1,0,0,1,1,0,Ninove,Ninove,Station,BE00910,FNN
+138,Okegem,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Okegem,Okegem,Stop in open track,BE00923,FKO
+139,Oudegem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Oudegem,Oudegem,Stop in open track,BE00938,FDM
+140,Audenarde,1,1,1,0,1,1,1,0,11,0,1,1,1,0,0,1,1,0,Audenarde,Oudenaarde,Station,BE00939,FDN
+141,Renaix,1,0,0,1,0,0,0,0,12,0,1,0,1,0,0,0,1,0,Renaix,Ronse,Station,BE01013,FRN
+142,Scheldewindeke,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,Scheldewindeke,Scheldewindeke,Stop in open track,BE01056,FSK
+143,Schellebelle,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0,1,0,Schellebelle,Schellebelle,Station,BE01058,FCB
+144,Schendelbeke,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Schendelbeke,Schendelbeke,Stop in open track,BE01059,FED
+145,Schoonaarde,0,0,0,1,0,0,0,0,6,0,0,0,1,0,0,0,1,0,Schoonaarde,Schoonaarde,Stop in open track,BE01060,FAD
+146,Serskamp,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Serskamp,Serskamp,Stop in open track,BE01068,NSK
+147,Sinaai,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Sinaai,Sinaai,Stop in open track,BE01073,LSW
+148,Sint-Denijs-Boekel,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Sint-Denijs-Boekel,Sint-Denijs-Boekel,Stop in open track,BE01076,FNZ
+149,Sint-Niklaas,0,1,1,0,1,1,1,1,22,0,1,1,1,0,0,1,1,1,Saint-Nicolas,Sint-Niklaas,Station,BE01088,FSN
+150,Sleidinge,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,Sleidinge,Sleidinge,Stop in open track,BE01091,LSD
+151,Temse,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Tamise,Temse,Station,BE01128,FTS
+152,Terhagen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Terhagen,Terhagen,Stop in open track,BE01130,MTH
+153,Viane-Moerbeke,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Viane-Moerbeke,Viane-Moerbeke,Stop in open track,BE01182,FKV
+154,Vijfhuizen,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Vijfhuizen,Vijfhuizen,Stop in open track,BE01186,FVH
+155,Waarschoot,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Waarschoot,Waarschoot,Stop in open track,BE01206,LWT
+156,Welle,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Welle,Welle,Stop in open track,BE01228,LWE
+157,Wetteren,1,0,0,1,0,0,1,0,11,0,1,0,1,0,0,0,1,0,Wetteren,Wetteren,Station,BE01234,FVT
+158,Wichelen,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Wichelen,Wichelen,Stop in open track,BE01253,FNW
+159,Wondelgem,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Wondelgem,Wondelgem,Station,BE01248,FWO
+160,Zandbergen,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Zandbergen,Zandbergen,Stop in open track,BE01256,FZB
+161,Zele,0,0,0,1,0,0,0,0,4,0,1,0,1,0,0,1,1,0,Zele,Zele,Station,BE01265,FZ
+162,Zingem,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Zingem,Zingem,Station,BE01272,FZG
+163,Zottegem,1,0,1,1,0,0,0,0,6,0,1,0,1,0,0,1,1,0,Zottegem,Zottegem,Station,BE01274,FZT
+164,Aarschot,0,0,0,1,1,0,1,0,37,1,1,0,1,0,0,1,1,0,Aarschot,Aarschot,Station,BE00009,FRST
+165,Asse,0,0,0,1,0,0,0,0,7,0,1,0,1,0,0,1,1,0,Asse,Asse,Station,BE00074,LAS
+166,Beersel,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Beersel,Beersel,Stop in open track,BE00128,GBB
+167,Begijnendijk,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Begijnendijk,Begijnendijk,Stop in open track,BE00132,GBD
+168,Boortmeerbeek,0,0,0,0,0,0,1,0,8,0,0,0,1,0,0,0,1,0,Boortmeerbeek,Boortmeerbeek,Stop in open track,BE00190,FOB
+169,Buda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Buda,Buda,Stop in open track,BE00229,BUDA
+170,Buizingen,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Buizingen,Buizingen,Station,BE00232,FGU
+171,De Hoek,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,De Hoek,De Hoek,Stop in open track,BE00316,FHO
+172,Diegem,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Diegem,Diegem,Stop in open track,BE00325,FDG
+173,Diest,1,1,0,1,1,0,1,0,8,0,1,0,1,0,0,1,1,0,Diest,Diest,Station,BE00326,FDT
+174,Dilbeek,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Dilbeek,Dilbeek,Stop in open track,BE00328,FKB
+175,Eppegem,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Eppegem,Eppegem,Stop in open track,BE00363,FPH
+176,Erps-Kwerps,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,1,0,Erps-Kwerps,Erps-Kwerps,Stop in open track,BE00368,MRP
+177,Essene-Lombeek,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Essene-Lombeek,Essene-Lombeek,Stop in open track,BE00378,FKS
+178,Ezemaal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Ezemaal,Ezemaal,Station,BE00384,FZE
+179,Gammerages,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Gammerages,Galmaarden,Stop in open track,BE00432,FGM
+180,Groenendaal,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,1,0,Groenendaal,Groenendaal,Stop in open track,BE00486,MDL
+181,Groot-Bijgaarden,0,0,0,1,0,0,0,0,2,0,0,0,1,0,1,0,1,0,Groot-Bijgaarden,Groot-Bijgaarden,Stop in open track,BE00488,MGA
+182,Haacht,1,0,0,0,1,0,0,0,10,0,0,0,1,0,0,0,1,0,Haacht,Haacht,Stop in open track,BE00493,FAT
+183,Hal,0,1,1,0,1,1,1,0,19,0,1,1,1,0,0,1,1,1,Hal,Halle,Station,BE00504,FH
+184,Hambos,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Hambos,Hambos,Stop in open track,BE00507,HBS
+185,Herent,0,0,0,0,0,1,0,0,9,0,0,0,1,0,0,0,1,0,Herent,Herent,Stop in open track,BE00553,FET
+186,Herne,0,0,0,0,0,0,0,0,8,0,0,0,1,0,0,0,1,0,Herne,Herne,Stop in open track,BE00559,FRE
+187,Hever,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Hever,Hever,Stop in open track,BE00566,GHR
+188,Heverlee,0,1,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Heverlee,Heverlee,Stop in open track,BE00567,GHE
+189,Hoeilaart,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Hoeilaart,Hoeilaart,Stop in open track,BE00572,FOY
+190,Hofstade,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Hofstade,Hofstade,Stop in open track,BE00574,FHF
+191,Holleken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Holleken,Holleken,Station,BE00578,HOL
+192,Huizingen,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Huizingen,Huizingen,Stop in open track,BE00591,HUI
+193,Kapelle-Op-Den-Bos,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,1,0,Kapelle-op-den-Bos,Kapelle-op-den-Bos,Stop in open track,BE00634,FKP
+194,Kortenberg,0,0,0,0,0,1,0,0,8,0,1,0,1,0,0,0,1,0,Kortenberg,Kortenberg,Stop in open track,BE00648,FTB
+195,Landen,0,0,0,0,1,0,1,0,12,0,0,0,1,0,0,0,1,0,Landen,Landen,Station,BE00684,FLD
+196,Langdorp,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Langdorp,Langdorp,Stop in open track,BE00686,LGD
+197,Lembeek,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Lembeek,Lembeek,Station,BE00706,FLB
+198,Louvain,1,1,1,0,1,1,1,1,27,1,1,1,1,0,0,1,1,1,Louvain,Leuven,Station,BE00715,FLV
+199,Liedekerke,0,0,0,1,0,1,0,0,16,0,1,0,1,0,0,0,1,0,Liedekerke,Liedekerke,Station,BE00725,LKD
+200,Linkebeek,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Linkebeek,Linkebeek,Stop in open track,BE00742,LKN
+201,Londerzeel,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,Londerzeel,Londerzeel,Station,BE00751,FZL
+202,Lot,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Lot,Lot,Station,BE00759,LOT
+203,Malderen,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Malderen,Malderen,Stop in open track,BE00781,FMD
+204,Merchtem,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Merchtem,Merchtem,Stop in open track,BE00821,FMHT
+205,Mollem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Mollem,Mollem,Stop in open track,BE00841,LHL
+206,Neerwinden,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Neerwinden,Neerwinden,Stop in open track,BE00900,FWI
+207,Nossegem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Nossegem,Nossegem,Stop in open track,BE00916,LEM
+208,Opwijk,0,0,0,1,0,0,0,0,10,0,1,0,1,0,0,0,1,0,Opwijk,Opwijk,Station,BE00933,FKW
+209,Oud-Heverlee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Oud-Heverlee,Oud-Heverlee,Stop in open track,BE00941,GVH
+210,Ruisbroek,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Ruisbroek,Ruisbroek,Stop in open track,BE01021,FRB
+211,Rhode-Saint-Genese,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Rhode-Saint-Genèse,Sint-Genesius-Rode,Stop in open track,BE01079,FGO
+212,Sint-Joris-Weert,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Sint-Joris-Weert,Sint-Joris-Weert,Station,BE01082,GSW
+213,Sint-Martens-Bodegem,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Sint-Martens-Bodegem,Sint-Martens-Bodegem,Stop in open track,BE01087,FSMB
+214,Ternat,0,0,0,1,0,0,0,0,7,0,0,0,1,0,0,0,1,0,Ternat,Ternat,Station,BE01131,FTN
+215,Testelt,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Testelt,Testelt,Station,BE01134,GTT
+216,Tirlemont,0,1,0,1,1,0,1,0,8,0,1,0,1,0,0,0,1,0,Tirlemont,Tienen,Station,BE01146,FTNN
+217,Tollembeek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Tollembeek,Tollembeek,Stop in open track,BE01150,LOK
+218,Veltem,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Veltem,Veltem,Stop in open track,BE01174,FEM
+219,Vertrijk,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,Vertrijk,Vertrijk,Station,BE01176,FVK
+220,Vilvorde,1,1,0,1,0,0,1,0,7,0,1,0,1,0,0,1,1,1,Vilvorde,Vilvoorde,Station,BE01192,FVV
+221,Weerde,0,0,0,0,0,0,0,0,10,0,0,0,1,0,0,0,1,0,Weerde,Weerde,Stop in open track,BE01224,FWE
+222,Wespelaar-Tildonk,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Wespelaar-Tildonk,Wespelaar-Tildonk,Stop in open track,BE01230,FVP
+223,Wezemaal,1,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Wezemaal,Wezemaal,Stop in open track,BE01238,LWZ
+224,Wijgmaal,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,Wijgmaal,Wijgmaal,Stop in open track,BE01242,FWG
+225,Zaventem,0,0,0,1,0,1,0,0,4,0,1,0,1,0,0,0,1,0,Zaventem,Zaventem,Stop in open track,BE01260,FZA
+226,Zellik,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Zellik,Zellik,Stop in open track,BE01266,FZI
+227,Zichem,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Zichem,Zichem,Stop in open track,BE01270,GZC
+228,Acren,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Acren,Acren,Stop in open track,BE00012,FXA
+229,Aiseau,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Aiseau,Aiseau,Stop in open track,BE00016,FAO
+230,Antoing,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Antoing,Antoing,Station,BE00035,FNT
+231,Ath,0,0,0,0,1,0,1,0,9,0,1,1,1,0,0,1,1,0,Ath,Aat,Station,BE00077,ATH
+232,Beignee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Beignée,Beignée,Stop in open track,BE00133,BEI
+233,Binche,0,0,0,0,0,0,1,0,6,0,0,0,1,0,0,0,1,0,Binche,Binche,Station,BE00158,LBH
+234,Blaton,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Blaton,Blaton,Station,BE00169,LLT
+235,Boussu,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Boussu,Boussu,Station,BE00195,FSB
+236,Bracquegnies,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Bracquegnies,Bracquegnies,Station,BE00201,LBQ
+237,Braine-Le-Comte,0,0,1,0,1,0,1,0,10,0,1,1,1,0,0,0,1,0,Braine-le-Comte,'s-Gravenbrakel,Station,BE00205,FBC
+238,Brugelette,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Brugelette,Brugelette,Station,BE00209,FBG
+239,Callenelle,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Callenelle,Callenelle,Stop in open track,BE00246,FCA
+240,Cambron-Casteau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Cambron-Casteau,Cambron-Casteau,Stop in open track,BE00247,FUC
+241,Carnieres,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Carnières,Carnières,Stop in open track,BE00250,LNS
+242,Charleroi-Central,0,1,1,0,1,1,1,1,7,0,1,1,1,0,0,1,1,1,Charleroi-Central,Charleroi-Centraal,Station,BE00259,FCR
+243,Charleroi-Ouest,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Charleroi-Ouest,Charleroi-West,Station,BE00258,FCRO
+244,Chatelet,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,1,0,Châtelet,Châtelet,Station,BE00263,FCL
+245,Comines,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Comines,Komen,Station,BE00278,FOI
+246,Couillet,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Couillet,Couillet,Station,BE00281,LCL
+247,Courcelles-Motte,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Courcelles-Motte,Courcelles-Motte,Station,BE00286,LCCM
+248,Cour-Sur-Heure,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Cour-sur-Heure,Cour-sur-Heure,Station,BE00288,LUH
+249,Ecaussinnes,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Ecaussinnes,Ecaussinnes,Station,BE00342,FCS
+250,Enghien,0,0,0,1,1,1,0,0,12,0,1,0,1,0,0,0,1,0,Enghien,Edingen,Station,BE00360,FNG
+251,Erbisoeul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Erbisoeul,Erbisoeul,Stop in open track,BE00364,FIU
+252,Erquelinnes,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,Erquelinnes,Erquelinnes,Station,BE00369,LQ
+253,Erquelinnes-Village,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Erquelinnes-Village,Erquelinnes-Dorp,Stop in open track,BE00371,LQB
+254,Familleureux,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,Familleureux,Familleureux,Stop in open track,BE00391,FFM
+255,Farciennes,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Farciennes,Farciennes,Stop in open track,BE00392,FFC
+256,Fleurus,0,0,0,0,0,0,1,0,4,0,1,0,1,0,0,0,1,0,Fleurus,Fleurus,Station,BE00404,LFR
+257,Fontaine-Valmont,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Fontaine-Valmont,Fontaine-Valmont,Stop in open track,BE00412,NFV
+258,Forchies,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Forchies,Forchies,Stop in open track,BE00413,LFC
+259,Frameries,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Frameries,Frameries,Stop in open track,BE00422,LRS
+260,Froyennes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Froyennes,Froyennes,Station,BE00427,GFY
+261,Genly,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Genly,Genly,Stop in open track,BE00446,MLY
+262,Ghlin,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Ghlin,Ghlin,Station,BE00462,FIH
+263,Godarville,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Godarville,Godarville,Stop in open track,BE00471,FDI
+264,Gouy-Lez-Pieton,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Gouy-lez-Piéton,Gouy-lez-Piéton,Stop in open track,BE00479,FGP
+265,Hainin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Hainin,Hainin,Stop in open track,BE00501,HAI
+266,Ham-Sur-Heure,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Ham-sur-Heure,Ham-sur-Heure,Stop in open track,BE00514,LHH
+267,Harchies,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Harchies,Harchies,Stop in open track,BE00519,FRH
+268,Havre,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Havré,Havré,Stop in open track,BE00535,LHR
+269,Hennuyeres,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Hennuyères,Hennuyères,Stop in open track,BE00550,FNY
+270,Herseaux,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Herseaux,Herseaux,Stop in open track,BE00560,FXS
+271,Houraing,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Houraing,Houraing,Stop in open track,BE00583,MHG
+272,Hourpes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Hourpes,Hourpes,Station,BE00585,MHR
+273,Jamioulx,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Jamioulx,Jamioulx,Station,BE00612,GJ
+274,Jemappes,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Jemappes,Jemappes,Station,BE00615,FJM
+275,Jurbise,0,0,0,1,0,0,0,0,9,0,1,0,1,0,0,0,1,0,Jurbise,Jurbeke,Station,BE00628,FJR
+276,Labuissiere,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Labuissière,Labuissière,Stop in open track,BE00664,NLB
+277,La Louviere-Centre,0,0,0,0,0,0,1,0,5,0,0,0,1,0,0,0,1,0,La Louvière-Centre,La Louvière-Centrum,Station,BE00673,LVR
+278,La Louviere-Sud,0,0,0,0,1,0,1,0,11,0,0,0,1,0,0,0,1,0,La Louvière-Sud,La Louvière-Zuid,Station,BE01744,LVRS
+279,Landelies,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Landelies,Landelies,Stop in open track,BE00683,NL
+280,Le Campinaire,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Le Campinaire,Le Campinaire,Station,BE00700,FRC
+281,Lens,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Lens,Lens,Stop in open track,BE00707,FNE
+282,Lessines,0,0,0,1,0,0,1,0,2,0,1,0,1,0,0,0,1,0,Lessines,Lessen,Station,BE00710,FLN
+283,Leuze,0,0,0,0,1,0,1,0,8,0,0,0,1,0,0,0,1,0,Leuze,Leuze,Station,BE00719,FLZ
+284,Leval,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,Leval,Leval,Stop in open track,BE00720,LVL
+285,Lobbes,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Lobbes,Lobbes,Station,BE00744,NLS
+286,Lodelinsart,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Lodelinsart,Lodelinsart,Stop in open track,BE00747,LDS
+287,Luttre,0,0,0,0,1,0,1,0,11,0,1,0,1,0,0,0,1,0,Luttre,Luttre,Station,BE00768,FLU
+288,Maffle,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Maffle,Maffle,Stop in open track,BE00782,FFA
+289,Manage,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,1,0,Manage,Manage,Station,BE00784,FMN
+290,Marche-Lez-Ecaussinnes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Marche-lez-Ecaussinnes,Marche-lez-Ecaussinnes,Stop in open track,BE00790,FCZ
+291,Marchienne-Au-Pont,0,0,0,0,0,0,1,0,5,0,0,0,1,0,0,0,1,0,Marchienne-au-Pont,Marchienne-au-Pont,Station,BE00791,FMR
+292,Marchienne-Zone,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Marchienne-Zone,Marchienne-Zone,Station,BE00793,NZ
+293,Masnuy-Saint-Pierre,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Masnuy-Saint-Pierre,Masnuy-Saint-Pierre,Stop in open track,BE00805,FYP
+294,Maubray,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Maubray,Maubray,Stop in open track,BE00807,MAU
+295,Mevergnies-Attre,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Mévergnies-Attre,Mévergnies-Attre,Stop in open track,BE00832,FEV
+296,Mons,0,1,0,1,1,0,1,1,10,1,1,0,1,0,0,1,1,1,Mons,Bergen,Station,BE00848,FMS
+297,Morlanwelz,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Morlanwelz,Morlanwelz,Stop in open track,BE00862,LMZ
+298,Mouscron,0,0,0,1,1,0,1,0,4,0,0,0,1,0,0,0,1,0,Mouscron,Moeskroen,Station,BE00868,FMC
+299,Neufvilles,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Neufvilles,Neufvilles,Stop in open track,BE00902,FFV
+300,Nimy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Nimy,Nimy,Stop in open track,BE00908,LNM
+301,Obaix-Buzet,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Obaix-Buzet,Obaix-Buzet,Stop in open track,BE00919,FXB
+302,Obourg,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Obourg,Obourg,Stop in open track,BE00920,LRG
+303,Papignies,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Papignies,Papegem,Stop in open track,BE00952,FAP
+304,Peruwelz,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Péruwelz,Péruwelz,Stop in open track,BE00958,FPL
+305,Pieton,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Piéton,Piéton,Station,BE00962,LPT
+306,Pont-A-Celles,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Pont-à-Celles,Pont-à-Celles,Stop in open track,BE00970,FPN
+307,Quaregnon,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Quaregnon,Quaregnon,Station,BE00979,FQR
+308,Quevy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Quévy,Quévy,Station,BE00982,LQV
+309,Quievrain,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Quiévrain,Quiévrain,Station,BE00984,FQ
+310,Rebaix,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Rebaix,Rebaix,Stop in open track,BE00989,FXR
+311,Roux,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Roux,Roux,Station,BE01018,FRX
+312,Saint-Ghislain,0,0,0,0,1,0,0,0,12,0,0,0,1,0,0,0,1,0,Saint-Ghislain,Saint-Ghislain,Station,BE01034,FGH
+313,Silly,0,0,0,1,0,0,0,0,13,0,0,0,1,0,0,0,1,0,Silly,Opzullik,Stop in open track,BE00121,FIL
+314,Soignies,0,1,0,0,0,0,1,0,15,0,1,1,1,0,0,0,1,0,Soignies,Zinnik,Station,BE01092,FSG
+315,Solre-Sur-Sambre,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Solre-sur-Sambre,Solre-sur-Sambre,Stop in open track,BE01093,NSS
+316,Thieu,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Thieu,Thieu,Stop in open track,BE01136,LU
+317,Thuin,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,Thuin,Thuin,Stop in open track,BE01139,NTH
+318,Thulin,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Thulin,Thulin,Stop in open track,BE01141,FTU
+319,Tournai,0,1,0,0,1,0,1,0,10,0,1,1,1,0,0,1,1,1,Tournai,Doornik,Station,BE01154,FTY
+320,Ville-Pommeroeul,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Ville-Pommeroeul,Ville-Pommeroeul,Stop in open track,BE01187,FPM
+321,Amay,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Amay,Amay,Station,BE00022,NM
+322,Ampsin,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Ampsin,Ampsin,Stop in open track,BE00024,NA
+323,Angleur,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Angleur,Angleur,Station,BE00027,MGR
+324,Ans,0,0,0,1,1,0,0,0,10,0,1,0,1,0,0,0,1,0,Ans,Ans,Station,BE00031,ANS
+325,Aywaille,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Aywaille,Aywaille,Station,BE00084,MWL
+326,Bas-Oha,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Bas-Oha,Bas-Oha,Stop in open track,BE00118,NBE
+327,Bierset-Awans,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Bierset-Awans,Bierset-Awans,Stop in open track,BE00155,FTI
+328,Bleret,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Bleret,Bleret,Stop in open track,BE00171,BLE
+329,Bressoux,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Bressoux,Bressoux,Station,BE00208,FBX
+330,Chaudfontaine,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Chaudfontaine,Chaudfontaine,Stop in open track,BE00267,FCF
+331,Chenee,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Chênée,Chênée,Station,BE00266,FCH
+332,Comblain-La-Tour,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Comblain-la-Tour,Comblain-la-Tour,Stop in open track,BE00277,MCT
+333,Coo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Coo,Coo,Stop in open track,BE00992,COO
+334,Dolhain-Gileppe,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,Dolhain-Gileppe,Dolhain-Gileppe,Stop in open track,BE00331,GDL
+335,Engis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Engis,Engis,Station,BE00361,NG
+336,Esneux,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Esneux,Esneux,Station,BE00375,LSN
+337,Eupen,0,0,0,1,1,0,1,0,3,0,1,0,1,0,0,0,1,0,Eupen,Eupen,Station,BE00382,REP
+338,Fexhe-Le-Haut-Clocher,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Fexhe-le-Haut-Clocher,Fexhe-le-Haut-Clocher,Stop in open track,BE00399,FXH
+339,Flemalle-Grande,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Flémalle-Grande,Flémalle-Grande,Stop in open track,BE00401,LFG
+340,Flemalle-Haute,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Flémalle-Haute,Flémalle-Haute,Station,BE00402,LFH
+341,Fraipont,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Fraipont,Fraipont,Stop in open track,BE00421,FIP
+342,Franchimont,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Franchimont,Franchimont,Stop in open track,BE00423,FRO
+343,Glons,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Glons,Glaaien,Stop in open track,BE00470,LGL
+344,Hamoir,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Hamoir,Hamoir,Station,BE00510,LHM
+345,Haute-Flone,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Haute-Flône,Haute-Flône,Stop in open track,BE00530,LHF
+346,Hergenrath,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Hergenrath,Hergenrath,Stop in open track,BE00825,REG
+347,Herstal,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Herstal,Herstal,Station,BE00562,LHS
+348,Hony,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Hony,Hony,Stop in open track,BE00579,MHN
+349,Huy,0,0,0,0,1,0,1,0,10,0,1,1,1,0,0,1,1,0,Huy,Hoei,Station,BE00592,LY
+350,Jemeppe-Sur-Meuse,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Jemeppe-sur-Meuse,Jemeppe-sur-Meuse,Stop in open track,BE00619,FJU
+351,Juslenville,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Juslenville,Juslenville,Stop in open track,BE00629,FJL
+352,Leman,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Leman,Leman,Stop in open track,BE00705,MAN
+353,Liege-Carre,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Liège-Carré,Luik-Carré,Stop in open track,BE00728,FLJ
+354,Liege-Guillemins,0,1,1,0,1,1,1,1,30,0,1,1,1,0,0,1,1,1,Liège-Guillemins,Luik-Guillemins,Station,BE00726,FL
+355,Liege-Saint-Lambert,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Liège-Saint-Lambert,Luik-Sint-Lambertus,Station,BE00730,FLGP
+356,Liers,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Liers,Liers,Station,BE00733,LSL
+357,Mery,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Méry,Méry,Stop in open track,BE00827,MRY
+358,Milmort,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Milmort,Milmort,Stop in open track,BE00835,LTM
+359,Momalle,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Momalle,Momalle,Stop in open track,BE00842,MO
+360,Nessonvaux,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Nessonvaux,Nessonvaux,Stop in open track,BE00901,FNV
+361,Ougree,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Ougrée,Ougrée,Stop in open track,BE02011,LGR
+362,Pepinster,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Pepinster,Pepinster,Station,BE00956,FPS
+363,Pepinster-Cite,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Pepinster-Cité,Pepinster-Cité,Stop in open track,BE00957,FPSC
+364,Pont-De-Seraing,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Pont-de-Seraing,Pont-de-Seraing,Stop in open track,BE00971,FPD
+365,Poulseur,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Poulseur,Poulseur,Stop in open track,BE00974,MPS
+366,Remicourt,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Remicourt,Remicourt,Station,BE00991,FMU
+367,Rivage,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,Rivage,Rivage,Station,BE00996,MRV
+368,Sclessin,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Sclessin,Sclessin,Stop in open track,BE01063,NSN
+369,Seraing,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Seraing,Seraing,Stop in open track,BE01067,NSR
+370,Spa,0,0,0,0,1,0,1,0,2,0,1,1,1,0,0,0,1,0,Spa,Spa,Station,BE01097,FSS
+371,Spa-Geronstere,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Spa-Géronstère,Spa-Géronstère,Station,BE00459,FSSG
+372,Statte,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Statte,Statte,Station,BE01102,LHY
+373,Sy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Sy,Sy,Stop in open track,BE01113,SY
+374,Theux,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Theux,Theux,Station,BE01135,FTX
+375,Tilff,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Tilff,Tilff,Station,BE01147,MTF
+376,Trois-Ponts,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Trois-Ponts,Trois-Ponts,Station,BE01157,FNO
+377,Trooz,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,1,0,Trooz,Trooz,Stop in open track,BE01159,FRZ
+378,Verviers-Central,0,1,1,0,1,1,1,0,12,0,1,1,1,0,0,0,1,0,Verviers-Central,Verviers-Centraal,Station,BE01177,GV
+379,Verviers-Palais,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Verviers-Palais,Verviers-Paleis,Stop in open track,BE01180,GVO
+380,Vise,0,0,1,1,0,0,1,0,2,0,1,0,1,0,0,0,1,0,Visé,Wezet,Station,BE01195,FVS
+381,Waremme,0,0,0,1,1,0,1,0,14,0,1,0,1,0,0,0,1,0,Waremme,Borgworm,Station,BE01213,FVR
+382,Welkenraedt,0,0,0,1,1,0,0,0,19,0,1,0,1,0,0,0,1,0,Welkenraedt,Welkenraedt,Station,BE01226,GWK
+383,Alken,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Alken,Alken,Station,BE00019,FAK
+384,Beringen,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,1,0,Beringen,Beringen,Stop in open track,BE01348,LBN
+385,Beverlo,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Beverlo,Beverlo,Stop in open track,BE00143,MBV
+386,Bilzen,0,0,0,0,0,0,1,0,4,0,0,0,1,0,0,0,1,0,Bilzen,Bilzen,Stop in open track,BE00157,FIE
+387,Bokrijk,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Bokrijk,Bokrijk,Stop in open track,BE00184,FKY
+388,Diepenbeek,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,Diepenbeek,Diepenbeek,Stop in open track,BE00324,GDP
+389,Genk,0,1,1,1,1,1,1,0,4,0,1,0,1,0,0,1,1,0,Genk,Genk,Station,BE01670,FKG
+390,Hamont,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,Hamont,Hamont,Station,BE01368,GHA
+391,Hasselt,0,1,1,0,1,1,1,1,10,0,1,1,1,0,0,1,1,1,Hasselt,Hasselt,Station,BE00523,FHS
+392,Heusden,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Heusden,Heusden,Stop in open track,BE00565,MHD
+393,Kiewit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Kiewit,Kiewit,Stop in open track,BE00636,GKW
+394,Bourg-Leopold,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0,1,0,Bourg-Léopold,Leopoldsburg,Station,BE00708,LBG
+395,Lommel,1,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Lommel,Lommel,Stop in open track,BE00750,LOL
+396,Neerpelt,0,0,0,1,1,1,0,0,8,0,0,0,1,0,0,0,1,0,Neerpelt,Neerpelt,Station,BE00899,LNP
+397,Overpelt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Overpelt,Overpelt,Stop in open track,BE01666,GOV
+398,Schulen,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Schulen,Schulen,Stop in open track,BE01061,GSU
+399,Saint-Trond,0,0,0,1,1,0,1,0,7,0,1,0,1,0,0,1,1,0,Saint-Trond,Sint-Truiden,Station,BE01090,FST
+400,Tongres,0,0,0,1,1,0,1,0,12,0,1,0,1,0,0,0,1,0,Tongres,Tongeren,Station,BE01151,FTG
+401,Zolder,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Zolder,Zolder,Stop in open track,BE01231,MZD
+402,Zonhoven,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,Zonhoven,Zonhoven,Stop in open track,BE01350,LZH
+403,Arlon,0,1,0,0,1,0,1,0,10,0,1,1,1,0,0,0,1,0,Arlon,Aarlen,Station,BE00070,LL
+404,Athus,0,0,0,0,0,0,0,0,8,0,0,0,1,0,0,0,1,0,Athus,Athus,Station,BE00078,MH
+405,Aubange,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Aubange,Aubange,Stop in open track,BE01841,MAB
+406,Aye,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Aye,Aye,Stop in open track,BE00100,AYE
+407,Barvaux,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Barvaux,Barvaux,Stop in open track,BE00114,LBV
+408,Bertrix,0,0,0,1,0,0,0,0,2,0,1,0,1,0,0,0,1,0,Bertrix,Bertrix,Station,BE00146,MBX
+409,Bomal,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Bomal,Bomal,Station,BE00185,MBM
+410,Carlsbourg,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Carlsbourg,Carlsbourg,Stop in open track,BE00249,MCL
+411,Florenville,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Florenville,Florenville,Station,BE00409,MFL
+412,Forrieres,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Forrières,Forrières,Stop in open track,BE00418,MFR
+413,Gouvy,0,0,0,0,1,0,0,0,3,0,0,1,1,0,0,0,1,0,Gouvy,Gouvy,Station,BE00477,FVY
+414,Grupont,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Grupont,Grupont,Station,BE00489,MGP
+415,Habay,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Habay,Habay,Station,BE00496,MHB
+416,Halanzy,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Halanzy,Halanzy,Station,BE00502,MHZ
+417,Libramont,0,1,0,0,1,0,1,0,3,0,1,1,1,0,0,0,1,0,Libramont,Libramont,Station,BE00723,LRB
+418,Marbehan,0,0,0,1,0,0,0,0,8,0,1,0,1,0,0,0,1,0,Marbehan,Marbehan,Station,BE00786,LMH
+419,Marche-En-Famenne,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Marche-en-Famenne,Marche-en-Famenne,Stop in open track,BE00788,MCH
+420,Marloie,0,0,0,1,1,0,1,0,4,0,1,0,1,0,0,0,1,0,Marloie,Marloie,Station,BE00801,MML
+421,Melreux-Hotton,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Melreux-Hotton,Melreux-Hotton,Station,BE00818,MLR
+422,Messancy,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Messancy,Messancy,Stop in open track,BE01842,MY
+423,Neufchateau,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Neufchâteau,Neufchâteau,Station,BE00752,LNG
+424,Paliseul,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Paliseul,Paliseul,Station,BE00951,MPL
+425,Poix-Saint-Hubert,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Poix-Saint-Hubert,Poix-Saint-Hubert,Stop in open track,BE00968,MPX
+426,Stockem,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Stockem,Stockem,Stop in open track,BE01107,MKM
+427,Vielsalm,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Vielsalm,Vielsalm,Station,BE01185,FVI
+428,Virton,0,0,0,1,0,1,0,0,5,0,1,0,1,0,0,0,1,0,Virton,Virton,Station,BE01194,MSM
+429,Viville,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Viville,Viville,Stop in open track,BE01198,FVIV
+430,Namur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Namur,Namen,Station,BE00895,FNR
+431,Andenne,0,0,0,1,1,0,1,0,9,0,1,0,1,0,0,0,1,0,Andenne,Andenne,Station,BE00025,NDN
+432,Anseremme,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Anseremme,Anseremme,Station,BE00034,MNS
+433,Assesse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Assesse,Assesse,Stop in open track,BE00075,MAS
+434,Auvelais,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,Auvelais,Auvelais,Station,BE00082,FVL
+435,Beauraing,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Beauraing,Beauraing,Station,BE00126,MBG
+436,Berzee,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Berzée,Berzée,Stop in open track,BE00147,LBZ
+437,Beuzet,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Beuzet,Beuzet,Stop in open track,BE00148,MBZ
+438,Chapelle-Dieu,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Chapelle-Dieu,Chapelle-Dieu,Stop in open track,BE00255,CAD
+439,Chapois,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Chapois,Chapois,Stop in open track,BE00257,CHAP
+440,Chateau-De-Seilles,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Château-de-Seilles,Château-de-Seilles,Stop in open track,BE00262,CHAS
+441,Ciney,0,1,0,1,1,0,1,0,6,0,1,0,1,0,0,0,1,0,Ciney,Ciney,Station,BE00272,LC
+442,Courriere,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Courrière,Courrière,Stop in open track,BE00287,MRR
+443,Couvin,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,Couvin,Couvin,Station,BE00291,LCV
+444,Dave-Saint-Martin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Dave-Saint-Martin,Dave-Saint-Martin,Stop in open track,BE00313,MDT
+445,Dinant,0,0,0,1,0,0,1,0,3,0,1,0,1,0,0,0,1,0,Dinant,Dinant,Station,BE00329,NDT
+446,Ernage,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Ernage,Ernage,Stop in open track,BE00366,MNG
+447,Flawinne,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Flawinne,Flawinne,Station,BE00400,FFW
+448,Floreffe,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Floreffe,Floreffe,Stop in open track,BE00406,FLF
+449,Franiere,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Franière,Franière,Station,BE00424,FNF
+450,Gedinne,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Gedinne,Gedinne,Stop in open track,BE00435,MG
+451,Gembloux,0,1,1,0,1,1,1,0,32,0,1,1,1,0,0,0,1,1,Gembloux,Gembloux,Station,BE00438,LGB
+452,Gendron-Celles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Gendron-Celles,Gendron-Celles,Station,BE00442,MGN
+453,Godinne,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Godinne,Godinne,Stop in open track,BE00472,NGD
+454,Graide,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Graide,Graide,Stop in open track,BE00480,MGD
+455,Ham-Sur-Sambre,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Ham-sur-Sambre,Ham-sur-Sambre,Stop in open track,BE00515,MHM
+456,Haversin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Haversin,Haversin,Stop in open track,BE00532,MHV
+457,Houyet,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Houyet,Houyet,Station,BE00589,MHY
+458,Jambes,0,0,0,0,1,0,0,0,4,1,1,0,1,0,0,0,1,0,Jambes,Jambes,Station,BE00611,NJ
+459,Jambes-Est,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Jambes-Est,Jambes-Oost,Stop in open track,BE00610,NJE
+460,Jemeppe-Sur-Sambre,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Jemeppe-sur-Sambre,Jemeppe-sur-Sambre,Stop in open track,BE00620,FJS
+461,Leignon,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Leignon,Leignon,Stop in open track,BE00704,MLG
+462,Ligny,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Ligny,Ligny,Stop in open track,BE00736,FGY
+463,Lonzee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Lonzée,Lonzée,Stop in open track,BE00754,MLZ
+464,Lustin,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Lustin,Lustin,Station,BE00767,NLT
+465,Marche-Les-Dames,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Marche-les-Dames,Marche-les-Dames,Stop in open track,BE00789,NMD
+466,Mariembourg,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,Mariembourg,Mariembourg,Station,BE00798,LMG
+467,Mazy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Mazy,Mazy,Stop in open track,BE00809,FZY
+468,Moustier,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Moustier,Moustier,Stop in open track,BE00870,FMT
+469,Nameche,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Namêche,Namêche,Station,BE00894,NMH
+470,Namur,0,1,1,0,1,1,1,1,20,1,1,1,1,0,0,1,1,0,Namur,Namen,Station,BE00895,FNR
+471,Naninne,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Naninne,Naninne,Stop in open track,BE00896,MNN
+472,Natoye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Natoye,Natoye,Stop in open track,BE00897,MNT
+473,Philippeville,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Philippeville,Philippeville,Station,BE00961,GPL
+474,Pry,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Pry,Pry,Stop in open track,BE00976,PRY
+475,Rhisnes,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Rhisnes,Rhisnes,Stop in open track,BE00995,MRN
+476,Rochefort-Jemelle,0,0,0,0,1,0,0,0,9,0,1,1,1,0,0,0,1,0,Rochefort-Jemelle,Rochefort-Jemelle,Station,BE00617,LJ
+477,Ronet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Ronet,Ronet,Station,BE01009,FEO
+478,Saint-Denis-Bovesse,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Saint-Denis-Bovesse,Saint-Denis-Bovesse,Stop in open track,BE01031,MD
+479,Sart-Bernard,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Sart-Bernard,Sart-Bernard,Stop in open track,BE01043,SB
+480,Sclaigneaux,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Sclaigneaux,Sclaigneaux,Station,BE01062,NS
+481,Tamines,0,0,0,0,1,1,1,0,6,0,1,1,1,0,0,0,1,0,Tamines,Tamines,Station,BE01125,FTM
+482,Walcourt,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,0,Walcourt,Walcourt,Station,BE01207,LWC
+483,Yves-Gomezee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Yves-Gomezée,Yves-Gomezée,Stop in open track,BE01254,FYG
+484,Yvoir,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Yvoir,Yvoir,Station,BE01255,NV
+485,Archennes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Archennes,Eerken,Stop in open track,BE00068,ARC
+486,Basse-Wavre,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Basse-Wavre,Basse-Wavre,Stop in open track,BE00120,BGWV
+487,Bierges-Walibi,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Bierges-Walibi,Bierges-Walibi,Stop in open track,BE00153,FBRG
+488,Blanmont,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Blanmont,Blanmont,Stop in open track,BE00167,MBL
+489,Braine-L'alleud,0,0,0,0,1,0,1,0,16,0,1,1,1,0,0,0,1,0,Braine-l'Alleud,Eigenbrakel,Station,BE00203,FBD
+490,Ceroux-Mousty,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Céroux-Mousty,Céroux-Mousty,Stop in open track,BE00252,MCM
+491,Chastre,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Chastre,Chastre,Stop in open track,BE00261,MC
+492,Court-Saint-Etienne,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Court-Saint-Etienne,Court-Saint-Etienne,Stop in open track,BE00289,LCN
+493,Faux,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,Faux,Faux,Stop in open track,BE00395,MFX
+494,Florival,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Florival,Florival,Stop in open track,BE00410,GFL
+495,Gastuche,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Gastuche,Gastuche,Stop in open track,BE00433,GG
+496,Genval,0,0,0,0,0,0,0,0,16,0,0,0,1,0,0,0,1,0,Genval,Genval,Station,BE00457,MGV
+497,La Hulpe,0,0,0,0,0,1,0,0,9,0,1,0,1,0,0,0,1,0,La Hulpe,Terhulpen,Stop in open track,BE00672,ML
+498,Lillois,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Lillois,Lillois,Stop in open track,BE00738,FOL
+499,Limal,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Limal,Limal,Stop in open track,BE00739,GLM
+500,Louvain-La-Neuve,0,0,0,0,0,1,0,0,29,0,0,0,1,0,0,0,1,0,Louvain-la-Neuve,Louvain-la-Neuve,Station,BE00762,LNO
+501,Mont-Saint-Guibert,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0,1,0,Mont-Saint-Guibert,Mont-Saint-Guibert,Station,BE00855,MM
+502,Nivelles,0,1,0,0,1,1,1,0,15,0,1,0,1,0,0,0,1,0,Nivelles,Nijvel,Station,BE00911,FNVT
+503,Ottignies,0,1,0,0,1,1,1,1,5,1,1,1,1,0,0,0,1,1,Ottignies,Ottignies,Station,BE00936,LT
+504,Pecrot,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Pecrot,Pecrot,Stop in open track,BE00954,FPC
+505,Profondsart,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,Profondsart,Profondsart,Stop in open track,BE00975,LPF
+506,Rixensart,0,0,0,0,0,1,0,0,7,0,0,0,1,0,0,0,1,0,Rixensart,Rixensart,Stop in open track,BE00997,MRX
+507,Tilly,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Tilly,Tilly,Station,BE01149,GTI
+508,Tubize,0,0,1,1,0,0,1,0,9,0,1,0,1,0,0,0,1,0,Tubize,Tubeke,Station,BE01160,FTZ
+509,Villers-La-Ville,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Villers-la-Ville,Villers-la-Ville,Stop in open track,BE01189,LLE
+510,Waterloo,0,0,0,1,0,0,1,0,2,0,1,0,1,0,0,0,1,0,Waterloo,Waterloo,Stop in open track,BE01218,FWT
+511,Wavre,0,1,0,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,Wavre,Waver,Station,BE01223,GWV
+512,Aarsele,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Aarsele,Aarsele,Stop in open track,BE00010,FAR
+513,Anzegem,0,0,0,0,0,0,0,0,8,0,0,0,1,0,0,0,1,0,Anzegem,Anzegem,Station,BE00066,FAN
+514,Beernem,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,1,0,Beernem,Beernem,Station,BE00127,LBM
+515,Bissegem,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,1,0,Bissegem,Bissegem,Stop in open track,BE00160,MIM
+516,Blankenberge,1,0,0,0,1,0,1,1,17,0,1,1,1,0,0,0,1,0,Blankenberge,Blankenberge,Station,BE00166,FBK
+517,Bruges,1,0,1,0,1,1,1,1,27,0,1,1,1,0,0,1,1,1,Bruges,Brugge,Station,BE00210,FR
+518,Bruges-Saint-Pierre,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Bruges-Saint-Pierre,Brugge-Sint-Pieters,Stop in open track,BE00212,FRSP
+519,De Panne,1,0,0,0,1,0,1,0,2,1,1,1,1,0,1,0,1,0,La Panne,De Panne,Station,BE00013,FDK
+520,Diksmuide,0,0,0,1,0,0,0,0,5,1,1,0,1,0,0,0,1,0,Dixmude,Diksmuide,Station,BE00327,FIK
+521,Duinbergen,0,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,1,0,Duinbergen,Duinbergen,Stop in open track,BE00337,MUI
+522,Harelbeke,1,0,1,1,0,0,1,0,7,0,1,0,1,0,0,0,1,0,Harelbeke,Harelbeke,Stop in open track,BE00520,FHL
+523,Heist,1,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,Heist,Heist,Stop in open track,BE00540,FHI
+524,Ypres,1,0,0,1,1,0,0,0,11,0,1,0,1,0,0,0,1,0,Ypres,Ieper,Station,BE00602,FI
+525,Ingelmunster,0,0,0,1,0,0,0,0,6,0,0,0,1,0,0,0,1,0,Ingelmunster,Ingelmunster,Stop in open track,BE00604,FNM
+526,Izegem,1,0,0,0,1,0,1,0,8,0,0,1,1,0,0,0,1,0,Izegem,Izegem,Station,BE00606,LZG
+527,Knokke,1,0,0,0,1,0,1,1,4,0,1,1,1,0,0,0,1,0,Knokke,Knokke,Station,BE00642,FKK
+528,Kortemark,0,0,0,1,0,0,0,0,5,0,1,0,1,0,0,0,1,0,Kortemark,Kortemark,Stop in open track,BE00647,FTK
+529,Courtrai,1,0,1,0,1,0,1,1,30,0,1,1,1,0,0,1,1,1,Courtrai,Kortrijk,Station,BE00649,LK
+530,Lichtervelde,0,0,0,0,1,0,0,0,5,0,1,1,1,0,0,0,1,0,Lichtervelde,Lichtervelde,Station,BE00724,FLC
+531,Lissewege,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Lissewege,Lissewege,Stop in open track,BE00743,FLW
+532,Menin,0,0,0,1,0,0,1,0,9,0,1,0,1,0,0,0,1,0,Menin,Menen,Station,BE00820,FME
+533,Ostende,1,0,0,0,0,1,1,1,37,1,1,1,1,0,1,1,1,1,Ostende,Oostende,Station,BE00929,FSD
+534,Oostkamp,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,0,1,0,Oostkamp,Oostkamp,Stop in open track,BE00931,FPO
+535,Poperinge,1,0,0,1,1,0,0,0,4,0,0,0,1,0,0,0,1,0,Poperinge,Poperinge,Station,BE00973,FPP
+536,Roulers,1,1,1,0,1,1,1,0,14,1,1,1,1,0,0,1,1,0,Roulers,Roeselare,Station,BE01005,FRL
+537,Tielt,1,1,0,1,1,0,1,0,8,0,0,0,1,0,0,0,1,0,Tielt,Tielt,Station,BE01145,FTT
+538,Torhout,1,0,0,1,0,0,1,0,15,0,1,0,1,0,0,1,1,0,Torhout,Torhout,Stop in open track,BE01152,FRT
+539,Furnes,0,0,0,1,0,0,1,0,6,0,0,0,1,0,0,0,1,0,Furnes,Veurne,Station,BE01181,FVU
+540,Vichte,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,Vichte,Vichte,Stop in open track,BE01184,FVE
+541,Waregem,1,0,1,1,0,0,1,0,5,0,1,0,1,0,0,1,1,0,Waregem,Waregem,Station,BE01212,FVG
+542,Wervik,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Wervik,Wervik,Stop in open track,BE01229,LWK
+543,Wevelgem,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Wevelgem,Wevelgem,Stop in open track,BE01235,FWM
+544,Zedelgem,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Zedelgem,Zedelgem,Station,BE01261,LZM
+545,Anvers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+546,Kontich,0,0,0,0,1,0,0,0,2,0,1,1,1,0,0,0,1,0,,,,,
+547,Mortsel-Oude-God,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,,,,,
+548,Région De Bruxelles-Capitale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+549,Tour-Et-Taxis,0,1,0,0,0,0,0,0,4,1,0,0,1,1,0,0,1,0,,,,,
+550,Flandre Orientale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+551,Alost-Kerrebroek,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,,,
+552,Sint-Gillis (Dendermonde),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,,,
+553,Brabant Flamand,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+554,Brussels Airport-Zaventem,0,0,1,1,0,1,0,0,0,0,1,0,1,0,0,0,1,1,,,,,
+555,Hainaut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+556,Liège,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+557,Voroux / Voroux-Goreux,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,,,
+558,Limbourg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+559,Luxembourg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+560,Brabant Wallon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+561,La Roche (Brabant Wallon),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,,,
+562,Flandre Occidentale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,
+563,Coxyde,0,0,0,1,0,0,1,0,7,1,1,0,1,0,0,0,1,0,,,,,
+564,Zeebrugge-Dorp/Strand,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,,,,,
+565,Zeebrugge-Dorp/Strand,1,0,0,0,0,0,1,0,7,0,0,0,1,0,0,0,1,0,,,,,
