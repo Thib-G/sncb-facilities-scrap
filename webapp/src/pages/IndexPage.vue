@@ -10,12 +10,20 @@
       <div class="column">
         <h3>SparQL-Anything query</h3>
         <p>This is a SparQL Query</p>
-        <sparql-query-component />
+        <sparql-anything-query-component />
+      </div>
+    </div>
+    <div class="row">
+      <div class="column">
+        <h3>Combine with (geo) data from ERA</h3>
+        <p>This is a SparQL Query</p>
+        <sparql-fuseki-query-component />
       </div>
     </div>
   </q-page>
 </template>
 
 <script setup>
-import SparqlQueryComponent from 'components/SparqlQueryComponent.vue'
+import SparqlAnythingQueryComponent from 'src/components/SparqlAnythingQueryComponent.vue'
+import SparqlFusekiQueryComponent from 'src/components/SparqlFusekiQueryComponent.vue'
 </script>
