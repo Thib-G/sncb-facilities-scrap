@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h4>Transform CSV file to triples with IRI from ERA</h4>
+    <h4>Enrich data with federated query from local and ERA</h4>
     <yasgui-component :query="query" :endpoint="endpoint" persistence-id="fuseki-era-geo" />
   </div>
 </template>

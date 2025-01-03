@@ -7,7 +7,7 @@ PREFIX gsp:  <http://www.opengis.net/ont/geosparql#>
 PREFIX ex:   <http://example.org/>
 
 SELECT 
-  ?canonicalUri ?opName ?tafTapCode ?hasEscalator ?hasPmrAssistance ?geometry ?lat ?long
+  ?canonicalUri ?opName ?tafTapCode ?hasEscalator ?hasPmrAssistance ?geometryWKT ?lat ?long
 WHERE {
   ?op era:opName ?opName ;
       era:canonicalURI ?canonicalUri ;
@@ -16,7 +16,8 @@ WHERE {
       ex:has_pmr_assistance ?hasPmrAssistance .
   SERVICE <https://prod.virtuoso.ecdp.tech.ec.europa.eu/sparql> {
     ?op gsp:hasGeometry ?geometry .
-    ?geometry geo:lat ?lat ;
+    ?geometry gsp:asWKT ?geometryWKT ;
+              geo:lat ?lat ;
               geo:long ?long .
   }
 } 
