@@ -6,7 +6,10 @@
 import '@triply/yasgui/build/yasgui.min.css'
 
 import Yasgui from '@triply/yasgui'
+import GeoPlugin from 'yasgui-geo-tg'
 import { useTemplateRef, onMounted } from 'vue'
+
+Yasgui.Yasr.registerPlugin('geo', GeoPlugin)
 
 const props = defineProps({
   query: {
@@ -28,7 +31,12 @@ onMounted(() => {
   const yasgui = new Yasgui(yasguiRef.value, {
     requestConfig: { endpoint: props.endpoint },
     persistenceId: props.persistenceId,
+    yasr: {
+      pluginOrder: ['table', 'response', 'geo'], // Enable geo plugin alongside default table
+      defaultPlugin: 'geo',
+    },
   })
+
   const tab = yasgui.getTab()
   tab.setQuery(props.query)
   const yasqe = tab.yasqe
