@@ -6,12 +6,12 @@
 </template>
 
 <script setup>
-import '@triply/yasgui/build/yasgui.min.css'
+import '@triply/yasgui/build/yasgui.min.css';
 
-import Yasgui from '@triply/yasgui'
-import { useTemplateRef, onMounted } from 'vue'
+import Yasgui from '@triply/yasgui';
+import { useTemplateRef, onMounted } from 'vue';
 
-const yasguiRef = useTemplateRef('yasgui')
+const yasguiRef = useTemplateRef('yasgui');
 
 const query = `
 PREFIX xyz: <http://sparql.xyz/facade-x/data/>
@@ -87,17 +87,17 @@ WHERE {
         FILTER (lang(?opTypeLabel) = 'en')
   }
 }
-`
+`;
 
 onMounted(() => {
   const yasgui = new Yasgui(yasguiRef.value, {
     requestConfig: { endpoint: 'https://linked-data.goelff.be/sparql.anything' },
-  })
-  const tab = yasgui.getTab()
-  tab.setQuery(query)
-  const yasqe = tab.yasqe
-  yasqe.setSize(800, 500)
-})
+  });
+  const tab = yasgui.getTab();
+  tab.setQuery(query);
+  const yasqe = tab.yasqe;
+  yasqe.setSize(800, 500);
+});
 </script>
 
 <style scoped></style>

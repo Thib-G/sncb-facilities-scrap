@@ -31,7 +31,7 @@
 </template>
 
 <script setup>
-import SparqlAnythingQueryComponent from 'src/components/SparqlAnythingQueryComponent.vue'
-import SparqlFusekiQueryComponent from 'src/components/SparqlFusekiQueryComponent.vue'
-import SparqlFusekiMapComponent from 'components/SparqlFusekiMapComponent.vue'
+import SparqlAnythingQueryComponent from 'src/components/SparqlAnythingQueryComponent.vue';
+import SparqlFusekiQueryComponent from 'src/components/SparqlFusekiQueryComponent.vue';
+import SparqlFusekiMapComponent from 'components/SparqlFusekiMapComponent.vue';
 </script>

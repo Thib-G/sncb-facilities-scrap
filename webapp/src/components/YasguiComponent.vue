@@ -3,13 +3,13 @@
 </template>
 
 <script setup>
-import '@triply/yasgui/build/yasgui.min.css'
+import '@triply/yasgui/build/yasgui.min.css';
 
-import Yasgui from '@triply/yasgui'
-import GeoPlugin from 'yasgui-geo-tg'
-import { useTemplateRef, onMounted } from 'vue'
+import Yasgui from '@triply/yasgui';
+import GeoPlugin from 'yasgui-geo-tg';
+import { useTemplateRef, onMounted } from 'vue';
 
-Yasgui.Yasr.registerPlugin('geo', GeoPlugin)
+Yasgui.Yasr.registerPlugin('geo', GeoPlugin);
 
 const props = defineProps({
   query: {
@@ -23,9 +23,9 @@ const props = defineProps({
   persistenceId: {
     required: true,
   },
-})
+});
 
-const yasguiRef = useTemplateRef('yasgui')
+const yasguiRef = useTemplateRef('yasgui');
 
 onMounted(() => {
   const yasgui = new Yasgui(yasguiRef.value, {
@@ -35,11 +35,11 @@ onMounted(() => {
       pluginOrder: ['table', 'response', 'geo'], // Enable geo plugin alongside default table
       defaultPlugin: 'geo',
     },
-  })
+  });
 
-  const tab = yasgui.getTab()
-  tab.setQuery(props.query)
-  const yasqe = tab.yasqe
-  yasqe.setSize(800, 500)
-})
+  const tab = yasgui.getTab();
+  tab.setQuery(props.query);
+  const yasqe = tab.yasqe;
+  yasqe.setSize(800, 500);
+});
 </script>

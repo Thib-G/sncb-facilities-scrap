@@ -6,8 +6,8 @@
 </template>
 
 <script setup>
-import YasguiComponent from 'components/YasguiComponent.vue'
-import query from 'assets/queries/FacilitiesEraGeo.sparql'
+import YasguiComponent from 'components/YasguiComponent.vue';
+import query from 'assets/queries/FacilitiesEraGeo.sparql';
 
-const endpoint = 'https://fuseki.linked-data.goelff.be/sncb-facilities'
+const endpoint = 'https://fuseki.linked-data.goelff.be/sncb-facilities';
 </script>

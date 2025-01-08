@@ -6,6 +6,6 @@
 </template>
 
 <script setup>
-import YasguiComponent from 'components/YasguiComponent.vue'
-import query from 'assets/queries/FacilitesCsvMergeWithEra.sparql'
+import YasguiComponent from 'components/YasguiComponent.vue';
+import query from 'assets/queries/FacilitesCsvMergeWithEra.sparql';
 </script>
