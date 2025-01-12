@@ -6,7 +6,7 @@
 
         <q-toolbar-title> Linked Data Project </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>UGent - Thibaut Goelff</div>
       </q-toolbar>
     </q-header>
 
