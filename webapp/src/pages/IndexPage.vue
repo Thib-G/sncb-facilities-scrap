@@ -96,7 +96,11 @@
             />
           </div>
         </div>
-        <YasguiComponent :query="currentEraQuery" persistence-id="fuseki-era-geo" />
+        <YasguiComponent
+          :query="currentEraQuery"
+          persistence-id="fuseki-era-geo"
+          endpoint="https://fuseki.linked-data.goelff.be/sncb-facilities"
+        />
       </div>
     </div>
   </q-page>
