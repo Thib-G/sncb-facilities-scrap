@@ -126,6 +126,27 @@
         />
       </div>
     </div>
+    <q-separator />
+    <div class="row">
+      <div class="col">
+        <h3>4) Conclusion</h3>
+        <p>
+          This project is a proof of concept of how to convert a CSV file to Linked Data and combine
+          it with other data. The data is available in Linked Data format and can be queried using
+          Sparql. The data is also combined with ERA data using a federated query and shown on a
+          map. The query can be built dynamically. The map is provided by a custom Yasgui geo
+          plugin, made specifically for this project but reusable by anyone.
+        </p>
+        <h4>Possible improvements</h4>
+        <ul>
+          <li>Find a better source for accessibility data in stations.</li>
+          <li>Create or use a real ontology.</li>
+          <li>Add autocomplete in Yasgui.</li>
+          <li>Also use RDF to build and parametrize the UI.</li>
+        </ul>
+        <p>Thanks for your attention!<br /><br />Thibaut</p>
+      </div>
+    </div>
   </q-page>
 </template>
 
