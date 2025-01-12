@@ -40,7 +40,7 @@ onMounted(() => {
   const tab = yasgui.getTab();
   tab.setQuery(props.query);
   const yasqe = tab.yasqe;
-  yasqe.setSize(800, 500);
+  yasqe.setSize('100%', 500);
 
   watch(
     () => props.query,
