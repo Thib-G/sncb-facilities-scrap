@@ -77,7 +77,7 @@
     </div>
     <div class="row">
       <div class="column">
-        <h3>Combine with (geo) data from ERA</h3>
+        <h3>3) Combine with (geo) data from ERA</h3>
         <p>
           This query combines data from the output of the Sparql-Anything query with geo data from
           ERA, and shows it on a map using the brand new
