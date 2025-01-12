@@ -106,18 +106,16 @@
         </p>
         <p>
           The query is dynamic and can be changed to show different fields. The default is the
-          presence of PMR assistance.
+          presence of PMR assistance and lift on the platform. Don't forget to click the
+          <q-icon name="play_arrow" size="1.4em" /> Run query button.
         </p>
-        <div class="row">
-          <div class="col">
-            <q-select
-              v-model="currentField"
-              :options="fields"
-              option-value="field"
-              option-label="description"
-              label="Select Field"
-              class="q-mb-md"
-              style="max-width: 300px"
+        <div class="row q-mb-md">
+          <div class="col-12 col-sm-6 col-md-4" v-for="(field, index) in fields" :key="index">
+            <q-checkbox
+              v-model="selectedFields"
+              :val="field"
+              :label="field.description"
+              class="q-mb-sm inline"
             />
           </div>
         </div>
@@ -160,9 +158,9 @@ const fields = [
   { field: 'wifi_presence', description: 'Wifi Presence' },
 ];
 
-const currentField = ref(fields[4]);
+const selectedFields = ref([fields[4], fields[5]]);
 
-const currentEraQuery = computed(() => eraQuery(currentField.value.field));
+const currentEraQuery = computed(() => eraQuery(selectedFields.value.map((item) => item.field)));
 onMounted(() => {
   setTimeout(() => {
     window.scrollTo(0, 0);
