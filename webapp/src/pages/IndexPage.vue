@@ -107,7 +107,7 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue';
+import { ref, computed, onMounted } from 'vue';
 
 import YasguiComponent from 'src/components/YasguiComponent.vue';
 
@@ -138,4 +138,10 @@ const fields = [
 const currentField = ref(fields[0]);
 
 const currentEraQuery = computed(() => eraQuery(currentField.value.field));
+onMounted(() => {
+  setTimeout(() => {
+    console.log('scrolling');
+    window.scrollTo(0, 0);
+  }, 100);
+});
 </script>
