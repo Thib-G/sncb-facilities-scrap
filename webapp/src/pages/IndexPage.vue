@@ -9,23 +9,24 @@
     <div class="row">
       <div class="col">
         <h3>Context</h3>
-        <p>I started by making this poster.</p>
+        <p>First I started by making a poster as required.</p>
         <div>
           <a href="images/poster.pdf" target="_blank" alt="Click to open poster"
             ><q-img src="images/poster.jpg" alt="Poster" class="q-mt-md" style="max-width: 400px" />
           </a>
         </div>
+        <p>Then I had to do something to implement what I proposed.</p>
       </div>
     </div>
     <div class="row">
       <div class="col">
         <h3>1) Scrape the data from NMBS website.</h3>
         <p>
-          This part was made last year in a Jupyter notebook. The data was scraped from the SNCB
-          website.<br />
-          Unfortunately, it is not possible to scrape it easily anymore because of Cloudflare's
+          Fortunately, this part was made last year in a Jupyter notebook. The data was scraped from
+          the NMBS website.<br />
+          Recently, it sadly became impossible to scrape it easily anymore because of Cloudflare's
           captchas.
-          <br />The notebooks are here:
+          <br />The notebooks used to extract the data are here:
         </p>
 
         <ul>
@@ -34,28 +35,28 @@
               href="https://github.com/Thib-G/sncb-facilities-scrap/blob/main/1_scrape-sncb-stations-urls.ipynb"
               target="_blank"
               >1_scrape-sncb-stations-urls.ipynb</a
-            >
+            >: Extract the table of content of all stations.
           </li>
           <li>
             <a
               href="https://github.com/Thib-G/sncb-facilities-scrap/blob/main/2_sncb-scrape-all-stations.ipynb"
               target="_blank"
               >2_sncb-scrape-all-stations.ipynb</a
-            >
+            >: Browse all stations and extract the data from the DOM.
           </li>
           <li>
             <a
               href="https://github.com/Thib-G/sncb-facilities-scrap/blob/main/3_flatten-facilities.ipynb"
               target="_blank"
               >3_flatten-facilities.ipynb</a
-            >
+            >: Create a large CSV file with all the collected data.
           </li>
           <li>
             <a
               href="https://github.com/Thib-G/sncb-facilities-scrap/blob/main/4_combine_with_data.ipynb"
               target="_blank"
               >4_combine_with_data.ipynb</a
-            >
+            >: Combine the data with ERA data based on the station name.
           </li>
         </ul>
       </div>
@@ -63,10 +64,18 @@
     <q-separator />
     <div class="row">
       <div class="col">
-        <h3>2) Sparql-Anything query</h3>
-        <p>This query generates triples from the CSV file from above, using Sparql Anything.</p>
+        <h3>2) Sparql Anything query</h3>
+        <p>
+          Then I used <a href="https://sparql-anything.cc/" target="_blank">Sparql Anything</a> to
+          convert the CSV data to Linked Data.
+        </p>
+        <p>
+          This query generates triples from the CSV file from above, using Sparql Anything. You can
+          run it here, but it is quite slow (about 80s which is higher that the one minute given to
+          present the project!)
+        </p>
         <YasguiComponent :query="csvQuery" persistence-id="sparql-anything" />
-        <p>The result is made available in Apache Jena here:</p>
+        <p class="q-mt-lg">The result is made available in Apache Jena here:</p>
         <ul>
           <li>
             Info:
@@ -93,7 +102,11 @@
           This query combines data from the output of the Sparql-Anything query with geo data from
           ERA, and shows it on a map using the brand new
           <a href="https://github.com/Thib-G/yasgui-geo-tg" target="_blank">Yasgui geo plugin</a>,
-          tailor-made for this project and freely reusable by anyone.
+          tailor-made for this project and freely reusable by anyone!
+        </p>
+        <p>
+          The query is dynamic and can be changed to show different fields. The default is the
+          presence of PMR assistance.
         </p>
         <div class="row">
           <div class="col">
@@ -104,6 +117,7 @@
               option-label="description"
               label="Select Field"
               class="q-mb-md"
+              style="max-width: 300px"
             />
           </div>
         </div>
@@ -146,12 +160,11 @@ const fields = [
   { field: 'wifi_presence', description: 'Wifi Presence' },
 ];
 
-const currentField = ref(fields[0]);
+const currentField = ref(fields[4]);
 
 const currentEraQuery = computed(() => eraQuery(currentField.value.field));
 onMounted(() => {
   setTimeout(() => {
-    console.log('scrolling');
     window.scrollTo(0, 0);
   }, 100);
 });
