@@ -8,7 +8,7 @@
     <q-separator />
     <div class="row">
       <div class="column">
-        <h3>1) Scrape the data from NBMS website.</h3>
+        <h3>1) Scrape the data from NMBS website.</h3>
         <p>
           This part was made last year in a Jupyter notebook. The data was scraped from the SNCB
           website.<br />
