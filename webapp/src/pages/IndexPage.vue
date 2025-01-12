@@ -1,13 +1,24 @@
 <template>
   <q-page class="q-ma-lg">
     <div class="row">
-      <div class="column">
+      <div class="col">
         <h2>Linked Data UGent Project</h2>
       </div>
     </div>
     <q-separator />
     <div class="row">
-      <div class="column">
+      <div class="col">
+        <h3>Context</h3>
+        <p>I started by making this poster.</p>
+        <div>
+          <a href="images/poster.pdf" target="_blank" alt="Click to open poster"
+            ><q-img src="images/poster.jpg" alt="Poster" class="q-mt-md" style="max-width: 400px" />
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
         <h3>1) Scrape the data from NMBS website.</h3>
         <p>
           This part was made last year in a Jupyter notebook. The data was scraped from the SNCB
@@ -51,7 +62,7 @@
     </div>
     <q-separator />
     <div class="row">
-      <div class="column">
+      <div class="col">
         <h3>2) Sparql-Anything query</h3>
         <p>This query generates triples from the CSV file from above, using Sparql Anything.</p>
         <YasguiComponent :query="csvQuery" persistence-id="sparql-anything" />
@@ -76,7 +87,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="column">
+      <div class="col">
         <h3>3) Combine with (geo) data from ERA</h3>
         <p>
           This query combines data from the output of the Sparql-Anything query with geo data from
@@ -85,7 +96,7 @@
           tailor-made for this project and freely reusable by anyone.
         </p>
         <div class="row">
-          <div class="column">
+          <div class="col">
             <q-select
               v-model="currentField"
               :options="fields"
