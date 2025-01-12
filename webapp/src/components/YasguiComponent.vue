@@ -7,7 +7,7 @@ import '@triply/yasgui/build/yasgui.min.css';
 
 import Yasgui from '@triply/yasgui';
 import GeoPlugin from 'yasgui-geo-tg';
-import { useTemplateRef, onMounted } from 'vue';
+import { useTemplateRef, onMounted, watch } from 'vue';
 
 Yasgui.Yasr.registerPlugin('geo', GeoPlugin);
 
@@ -41,5 +41,12 @@ onMounted(() => {
   tab.setQuery(props.query);
   const yasqe = tab.yasqe;
   yasqe.setSize(800, 500);
+
+  watch(
+    () => props.query,
+    (newQuery) => {
+      tab.setQuery(newQuery);
+    },
+  );
 });
 </script>
