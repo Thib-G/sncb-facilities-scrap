@@ -1,8 +1,8 @@
 {
   "name": "sncb-scrape",
   "version": "0.0.1",
-  "description": "SNCB/NMBS Linked Data",
-  "productName": "SNCB/NMBS Linked Data",
+  "description": "Enrich data scraped from NMBS/SNCB website using - Linked Data UGent Project",
+  "productName": "Linked Data UGent Project",
   "author": "Thibaut Goelff <thibaut.goelff@infrabel.be>",
   "type": "module",
   "private": true,

@@ -1,6 +1,6 @@
-# SNCB/NMBS Linked Data (sncb-scrape)
+# Linked Data UGent Project
 
-SNCB/NMBS Linked Data
+Linked Data UGent Project
 
 ## Install the dependencies
 
